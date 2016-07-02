@@ -1,0 +1,282 @@
+/*******************BG Image*******************/
+
+body {
+  background-repeat: repeat;
+  background-position: center top;
+  background-color: #fff;
+}
+
+/*******************BG Color*******************/
+
+/*******************Layout Mode*******************/
+
+/****************Button Colors***********************/
+
+.button:hover, a.button:hover, span.more-link a:hover, .cancel-reply p a:hover {
+  color: #fff;
+  background: #333 !important;
+}
+
+.button, a.button, span.more-link a.more-link {
+  color: #fff;
+  background: #00a498;
+}
+
+#footer {
+  .button, a.button, span.more-link a.more-link {
+    color: #fff;
+    background: #00a498;
+  }
+}
+
+.cancel-reply p a {
+  color: #fff;
+  background: #00a498;
+}
+
+.summary {
+  color: #fff !important;
+  background: #00a498;
+}
+
+.rating {
+  &.stars, &.points, &.percent {
+    color: #fff !important;
+    background: #00a498;
+  }
+}
+
+.scorebar, .categories a:hover, .tagcloud a {
+  color: #fff !important;
+  background: #00a498;
+}
+
+.single {
+  .categories a, .sidebar .categories a:hover {
+    color: #fff !important;
+    background: #00a498;
+  }
+}
+
+.tabswrap ul.tabs li a {
+  &.active, &:hover {
+    color: #fff !important;
+    background: #00a498;
+  }
+}
+
+#footer .tabswrap ul.tabs li a {
+  &:hover, &.active {
+    color: #fff !important;
+    background: #00a498;
+  }
+}
+
+.sf-menu li {
+  a:hover, &.sfHover a {
+    color: #fff !important;
+    background: #00a498;
+  }
+}
+
+.pagination a.button.share:hover, #commentsubmit #submit, #cancel-comment-reply-link {
+  color: #fff !important;
+  background: #00a498;
+}
+
+blockquote, .tabswrap .tabpost a:hover, .articleinner h2 a:hover, span.date a:hover {
+  color: #00a498 !important;
+}
+
+h3.pagetitle, h1.pagetitle, .pagetitlewrap span.description {
+  border-color: #00a498;
+}
+
+/****************Link Colors***********************/
+
+p a, a {
+  color: #00a498;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, p a:hover {
+  color: #333;
+}
+
+#footer {
+  h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
+    color: #333;
+  }
+}
+
+a:hover, #footer a:hover {
+  color: #333;
+}
+
+.blogpost {
+  h2 a:hover, .smalldetails a:hover {
+    color: #333;
+  }
+}
+
+/****************Selection Colors***********************/
+
+::-moz-selection {
+  color: #fff;
+  background: #00a498;
+}
+
+::selection {
+  color: #fff;
+  background: #00a498;
+  color: #fff;
+  background: #00a498;
+}
+
+.recent-project:hover {
+  border-color: #333 !important;
+}
+
+/***************Typographic User Values *********************************/
+
+h1, h2, h1 a, h2 a, .blogpost h2 a, h3, .ag_projects_widget h3, h3 a, .aj_projects_widget h3 a, .ajax-select ul.sf-menu a, .pagination .button, .nivo-caption h3.title {
+  font-family: 'Bitter', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+h5 {
+  font-family: 'PT Sans Narrow', arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase !important;
+  a {
+    font-family: 'PT Sans Narrow', arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase !important;
+  }
+}
+
+.widget {
+  h3, h2, h4 {
+    font-family: 'PT Sans Narrow', arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase !important;
+  }
+}
+
+.reviewbox {
+  h4, .score span {
+    font-family: 'PT Sans Narrow', arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase !important;
+  }
+}
+
+.ajax-select a#news_select, .authorposts h4, .widget h4.widget-title {
+  font-family: 'PT Sans Narrow', arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase !important;
+}
+
+h4 {
+  font-family: 'Bitter', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none !important;
+  a {
+    font-family: 'Bitter', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none !important;
+  }
+}
+
+.footer {
+  .note h4, h4.subheadline {
+    font-family: 'Bitter', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none !important;
+  }
+}
+
+.newspost h4, .paginationbutton .button, .articleinner h2.indextitle, .widget .articleinner h2.indextitle, .articleinner h2.indextitle a, .widget artileinner h2.indextitle a {
+  font-family: 'Bitter', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none !important;
+}
+
+.sf-menu a, .ajax-select ul.sf-menu li li a {
+  font-family: 'Droid Sans', arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: none;
+}
+
+body, input, p, ul, ol, .button, .ui-tabs-vertical .ui-tabs-nav li a span.text {
+  font-family: 'Droid Sans', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.footer {
+  p, ul, ol, &.button {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+.credits {
+  p, ul, ol, &.button {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+.footer {
+  textarea, input {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+.testimonial p {
+  font-family: 'Droid Sans', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.contactsubmit {
+  label, input[type=text], textarea {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+h2 span.date {
+  font-family: 'Droid Sans', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.articleinner {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+.nivo-caption {
+  h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: normal;
+    text-transform: none;
+  }
+}
+
+#cancel-comment-reply-link {
+  font-family: 'Droid Sans', arial, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}

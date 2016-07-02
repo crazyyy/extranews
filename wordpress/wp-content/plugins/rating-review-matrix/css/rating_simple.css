@@ -1,0 +1,43 @@
+.webwidget_rating_simple{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+.webwidget_rating_simple li{
+    line-height: 0px;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    list-style: none;
+    float: left;
+    cursor: pointer;
+	background-repeat:no-repeat
+}
+.webwidget_rating_simple li span{
+    display: none;
+}
+
+.matrix_line_{ clear:both;}
+
+#rating_main_container{ border: #96692E 1px solid; padding: 2px; border-radius: 3px;}
+
+#onDiv {
+    background: url(../images/rating_on.png);
+}
+#offDiv {
+    background: url(../images/rating_off.png) right;
+}
+#rmatrixLoginPopUp{ display: none; 
+    background-color: rgba(0, 0, 0, 0.9);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000010;}
+	
+	#rmatrixLoginForm{ background:#FFF; padding: 10px; margin:50px auto auto; max-width: 500px; opacity: 1}
+	
+	.login_row .title_{ float:left; margin-right: 5px; width: 175px;}

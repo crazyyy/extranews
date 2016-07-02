@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RATING/REVIEW MATRIX\n"
+"POT-Creation-Date: 2014-05-25 20:29-0500\n"
+"PO-Revision-Date: 2014-05-25 20:29-0500\n"
+"Last-Translator: FreelanceRces <devs@freelanceresources.net>\n"
+"Language-Team: Freelance Resources .Net Team <devs@freelanceresources.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: H:\\JANVIER M\\ACER - WEBSITE\\PERSO_WEB"
+"\\freelanceresources.net\\nxmp\\x\\rating-review-matrix\\trunk\n"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:145
+msgid "Manage Matrices"
+msgstr "Gérer les matrices"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:146
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:211
+msgid "Matrix Ratings"
+msgstr "Votes des matrices"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:153
+msgid "Create Rating Matrices"
+msgstr "Créer les Matrices"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:154
+msgid "In this section, you will create matrices that will be used for rating"
+msgstr ""
+"Dans cette section, vous alez créer les matrices qui seront utiliser pour "
+"voter"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:157
+msgid "You will be able to set the Matrix components after you create it"
+msgstr "Vous aller attribuer les composantes de la matrice une fois créée"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:173
+msgid "Existing Matrices"
+msgstr "Matrices éxistantes"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:180
+msgid "ID"
+msgstr "ID"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:181
+msgid "Matrix title"
+msgstr "Titre de la matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:182
+msgid "Matrix entries"
+msgstr "Entrées de la Matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:183
+msgid "Manage the matrix"
+msgstr "Gérer la matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:197
+msgid " - - - - - "
+msgstr " - - - - - "
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:198
+msgid "Delete"
+msgstr "Effacer"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:199
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:200
+msgid "Reset the Ratings"
+msgstr "Réinitialiser les votes"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:219
+msgid "Rating ID"
+msgstr "Vote ID"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:220
+msgid "Rating Value"
+msgstr "Valeur de la vote"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:221
+msgid "Rating User"
+msgstr "Voteur"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:222
+msgid "Time recorded"
+msgstr "Temps enregistré"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:248
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:251
+msgid "Please wait..."
+msgstr "Prière d'attendre..."
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:300
+msgid "New matrix Title"
+msgstr "Titre de la nouvelle matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:301
+msgid "Out of"
+msgstr "De"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:302
+msgid "Field #1"
+msgstr "Champ #1"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:303
+msgid "Field #2"
+msgstr "Champ #2"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:304
+msgid "Add new field"
+msgstr "Ajouter un champ"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:304
+msgid "Create"
+msgstr "Créer"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:315
+msgid "Field "
+msgstr "Champ"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:408
+msgid "You can`t Proceed...The ** MATRIX TITLE ** is empty"
+msgstr "Vous ne pouvez procéceder. Les champs sont vides"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:444
+msgid "Final Message"
+msgstr "Message final"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:459
+msgid "Confirm Reset"
+msgstr "Confirmer réinitialisation"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:468
+msgid "Confirm Matrix Delete"
+msgstr "Confirmer la uppression de la matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:501
+msgid "Matrix Successfully deleted"
+msgstr "Matrice supprimée  avec succès"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader-admin.php:501
+msgid "Something went wrong"
+msgstr "Quelque chose n`a pas marché comme prévu"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:125
+msgid "You have already voted for this post"
+msgstr "Vous avez déja voté pour cet article"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:197
+msgid "Thanks for your Vote"
+msgstr "Merci pour la vote"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:209
+msgid "Success"
+msgstr "Succès"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:211
+msgid "Submit Vote"
+msgstr "Soumettre vote"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:214
+msgid "Something is not right"
+msgstr "Quelque chose ne va pas"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:286
+msgid "Associate a matrix with "
+msgstr "Associer une matrice à"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:319
+msgid ""
+"<p>I seems you have not created any matrices yet. Please go to <a href=\"/wp-"
+"admin/admin.php?page=rmatrix-options\">Matrix Options</a> to create some"
+msgstr ""
+"<p>Il parrait que vous n`ayez créé de matrices encore.Prière d`aller sur <a "
+"href=\"/wp-admin/admin.php?page=rmatrix-options\">Matrix Options</a> pour en "
+"créer une."
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:323
+msgid "Select A Matrix"
+msgstr "Séléctionner une matrice"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:326
+msgid "Choose One"
+msgstr "Choisir une"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:338
+msgid ""
+"Choose a Matrix. Be careful once chosen it cannot be undone to avoid messing "
+"the ratings values in the database"
+msgstr ""
+"Choisir une matrice. Soyez en sûrs car, une fois choisie, cette action est "
+"irréversible"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:507
+msgid "Username"
+msgstr "Nom  d`usager"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:510
+msgid "Password"
+msgstr "Mot de passe"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:513
+msgid "Login"
+msgstr "Connection"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:539
+msgid "Vote"
+msgstr "Vote"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:541
+msgid "You must Login"
+msgstr "Vous devez vous connecter"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/loader.php:608
+msgid "Matrix added successfully"
+msgstr "Matrice ajoutée avec succès"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:9
+msgid "Search Review types"
+msgstr "Rechercher les type de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:10
+msgid "All Review types"
+msgstr "Toutes les types de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:11
+msgid "Parent Review type"
+msgstr "Type de revue parent"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:12
+msgid "Parent Review Type:"
+msgstr "Type de Revue Parent:"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:13
+msgid "Edit Review Type"
+msgstr "Editer Type de Revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:14
+msgid "Update Review Type"
+msgstr "Mettre à jour Type de Revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:15
+msgid "Add New Review Type"
+msgstr "Ajouter nouveau Type de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:16
+msgid "New Review Type"
+msgstr "Nouveau Type de Revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:17
+msgid "Review Types"
+msgstr "Types de Revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:36
+msgid "Add New Review matrix"
+msgstr "Ajouter nouvelle Matrice de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:37
+msgid "Edit Review matrix"
+msgstr "Editer Martice de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:38
+msgid "New Review matrix"
+msgstr "Nouvelle matrice de Revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:39
+msgid "View Review matrix"
+msgstr "Voir Matrice de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:40
+msgid "Search Review matrices"
+msgstr "Rechercher Matrices de revue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:41
+msgid "No Review matrices found"
+msgstr "Aucune matrice de Revue trouvée"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/post_types.php:42
+msgid "No Review matrices found in Trash"
+msgstr "Aucune matrice de Revue trouvée dans la poubelle"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:7
+msgid ""
+"Notice that sending this form will create an entry in our forum if need be. "
+"The email and name you enter will be used as the account holders for that "
+"forum entry if one is created"
+msgstr ""
+"Notez bien qu`en envoyant ce message, une entrée possiblement publique s`il "
+"le faut sera créée. Le courriel et nom que vous entrez seront utilisés pour "
+"le compte propriétaire de cette entrée dans le forum."
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:14
+msgid "Name"
+msgstr "Nom"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:18
+msgid "E-mail"
+msgstr "Courriel"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:22
+msgid "Reason"
+msgstr "Raison"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:25
+msgid "Technical Support"
+msgstr "Soutien Technique"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:26
+msgid "Bug report"
+msgstr "Identification d`une bogue"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:27
+msgid "Feature request"
+msgstr "Demande de fonctionnalité"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:28
+msgid "Other"
+msgstr "Autre"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/admin-form.php:32
+msgid "Content"
+msgstr "Contenu"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:19
+msgid "RMatrix Main"
+msgstr "RMatrix Bercail"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:23
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:24
+msgid "Rating Matrices"
+msgstr "Matrices de votes"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:74
+msgid "Main Settings"
+msgstr "Paramètres de base"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:75
+msgid "Appearance"
+msgstr "Apparence"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:76
+msgid "Help & Support"
+msgstr "Aide et Soutien"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:81
+msgid "RMATRIX main settings"
+msgstr "Paramètres de base RMATRIX"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:104
+msgid "General Options"
+msgstr "Options générales"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:107
+msgid "Force User login before Voting"
+msgstr "Forcer le visiteur à se connecter avant de voter"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:111
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:122
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:152
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:190
+msgid "Yes"
+msgstr "Oui"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:111
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:122
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:152
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:190
+msgid "No"
+msgstr "No"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:118
+msgid "Allow User Comments"
+msgstr "Permettre les commentaires d'usagers"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:128
+msgid "Choose Content Supported"
+msgstr "Choisir le Type de contenu supportés"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:142
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:143
+msgid "Supported"
+msgstr "Supporté"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:163
+msgid "Languages and translations"
+msgstr "Langues et traductions"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:183
+msgid "Security"
+msgstr "Sécurité"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:186
+msgid "Allow Ajax Login"
+msgstr "Permettre Login/connection Ajax"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:201
+msgid "Miscelleneous"
+msgstr "Divers"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:201
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:257
+msgid "0"
+msgstr "0"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:208
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:232
+msgid "Save Settings"
+msgstr "Sauvegarder paramètres"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:216
+msgid "General Appearance"
+msgstr "Apparence générale"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:223
+msgid "Templates"
+msgstr "Templates"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:239
+msgid "Forums and Contacts"
+msgstr "Forums et contact"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:245
+msgid "Forums"
+msgstr "Forums"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:246
+msgid ""
+"If you encounter an issue, please refer to our Forums to report it. We do "
+"not monitor the wordpress Forums periodically. <p>Here is the link to the "
+"forums : <a href=\"http://www.freelanceresources.net/forums/forum/plugins-"
+"and-softwares/review-matrix/\" target=\"_blank\">http://www."
+"freelanceresources.net/forums/forum/plugins-and-softwares/review-matrix/</a>"
+msgstr ""
+"Si vous trouvez un problème quelconque, prière de vous référer  nos  forums "
+"de discussion se trouvant  au lien suivant: <p><a href=\"http://www."
+"freelanceresources.net/forums/forum/plugins-and-softwares/review-matrix/\" "
+"target=\"_blank\">http://www.freelanceresources.net/forums/forum/plugins-and-"
+"softwares/review-matrix/</a>"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:247
+msgid "OR"
+msgstr "OU"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:248
+msgid "Contact us directly from here"
+msgstr "Nous contacter directement d`ici"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:249
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:257
+msgid "Credits"
+msgstr "Crédits"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:261
+msgid "Credits and acknowledgements"
+msgstr "Crédits et reconnaissances"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:263
+msgid "PHP cleanup and design"
+msgstr "Le Design et ménage du code PHP"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:264
+msgid "jQuery help with the framework"
+msgstr "Aide avec jQuery pour le framework"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:265
+msgid "UI Kit for the part of our backend"
+msgstr "Ensemble de l`interface usager de la part administration"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:293
+msgid "You are logged in, but you may have to refresh your browser"
+msgstr "Vous etes connecté, mais vous devriez relancer le navigateur"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:306
+msgid "Options Updated Successfully"
+msgstr "Options mises à jour avec success"
+
+#: H:\JANVIER M\ACER -
+#: WEBSITE\PERSO_WEB\freelanceresources.net\nxmp\x\rating-review-matrix\trunk/admin-framework/index.php:309
+msgid "You must be logged in to update your information."
+msgstr "Vous devez être connecté pour mettre à jour vos informations"

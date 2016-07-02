@@ -1,0 +1,82 @@
+#admin_tabs{ list-style:none; padding-left: 50px;}
+	#admin_tabs li{ list-style: none; float:left; padding: 10px 10px 10px 10px; margin-right: 10px; background:#E5E5E5; color: #000; cursor: pointer; font-size:20px}
+	#admin_tabs .selected{ background: #2EA2CC; color: #FFF; font-weight: bold}
+
+#container_body{ width: 100%; min-height: 600px; border-top:2px solid #2EA2CC;margin-top: -6px; }
+	#container_body .settings-container{ width: 100%}
+	#rmatrix_container h1, #rmatrix_container h2,  #rmatrix_container h3{color:#2EA2CC}
+	.rmatrix_row{ margin-bottom: 10px;}
+	.rmatrix_row .label_title{ width: 200px; margin-right:1px; float:left}
+	.rmatrix_row .label_name{ width:200px; margin-right: 5px; float:left; font-weight: bold;padding: 5px;}
+	.rmatrix_row .row_content{float:left}
+	
+		#support_inlineform_inner{  background: #fff; opacity: 1; width:60%; margin:auto}
+		
+	#rmatrix_hange{ background:#F00; color:#FFF; padding: 5px;}
+	#rmatrix_admin_emails{ border:#000 2px solid ; height: 200px;}
+	
+	#support_inlineform{ background-color:rgba(0, 0, 0, 0.5); display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000; }
+		#contact_us_here{ background:#060; border-radius:5px; border:none; color: #fff; font-weight: 700; padding: 10px 50px; cursor: pointer}
+.switch-button-label {
+    float: left;
+
+    font-size: 10pt;
+    cursor: pointer;
+}
+
+.switch-button-label.off {
+    color: #adadad;
+}
+
+.switch-button-label.on {
+    color: #0088CC;
+}
+
+.switch-button-background {
+    float: left;
+    position: relative;
+
+    background: #ccc;
+    border: 1px solid #aaa;
+
+    margin: 1px 10px;
+
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+
+    cursor: pointer;
+}
+
+.switch-button-button {
+    position: absolute;
+
+    left: -1px;
+    top : -1px;
+
+    background: #FAFAFA;
+    border: 1px solid #aaa;
+
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.target{ background:#09F; width:200px; height:200px;}
+.nexus_row{ margin-bottom: 10px;}
+	.nexus_row .label_title{ width: 200px; float:left; margin-right: 5px; font-size:16px; padding: 10px; background:#F7F7F7}
+	.nexus_row .row_content{ float:left}
+	.message_saving{ display:none; float:right; margin-right:5px; margin-top:5px; border: #fff 5px solid; padding: 5px; background:#063; border-radius: 5px}
+	.save_settings_1{ background: #265299; border-radius: 5px; cursor: pointer; color: #fff; padding:10px; border: #fff 4px solid; margin-top: 20px; font-size:18px}
+.toggle_{ width: 65px; height: 25px; border-radius:18px; margin-top: 5px; color: #fff; font-weight: bold; cursor: pointer}
+.yes{ background:#060}
+.no{ background: #7C4E45}
+.toggle_ .right{ float:right;}
+.toggle_ .left{ float:left;}
+.the_round{ width: 22px; height: 22px; background: #fff; border-radius:11px; margin:1px;}
+.the_words{ margin-top:3px; font-size:18px; margin-left: 4px; margin-right:4px;}
